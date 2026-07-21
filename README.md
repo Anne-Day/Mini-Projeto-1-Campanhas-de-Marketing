@@ -64,6 +64,7 @@ Foi utilizada a função `SUM` para realizar a soma dos valores numéricos e con
 
 ### 1. Visão do Cliente
 Apresenta uma visão geral do perfil dos consumidores.
+![](Captura de tela 2026-07-20 194309.png)
 * **KPIs Principais:** Total de clientes, salário anual médio, total de compras realizadas (via Web, Catálogo e com Desconto).
 * **Análises:** Distribuição dos clientes por escolaridade, estado civil e comparação entre canais de compra.
 * **Filtros Interativos:** Segmentação por país (Argentina, Alemanha, Brasil, Chile, Espanha, Estados Unidos e Portugal).
